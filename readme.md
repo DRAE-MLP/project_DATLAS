@@ -1,6 +1,6 @@
-Project DATLAS
+## Project DATLAS
 
-This project was developed in 24 hours.
+This project was developed under 24 hours for the hackaton HackMTY 2020. 
 
 The aim was to follow the CRISP-DM methodology (as it is the leading standard for the implementation of data science projects across the industry), with the purpose of gaining insight on how and where traffic accidents happen in Nuevo Leon. This repository contains several jupyter notebooks and datasets that were developed, to deepen the current knowledge on how are traffic accidents generated and then make predictions to avoid these accidents.
 
@@ -17,3 +17,11 @@ The developed jupyter notebooks are the following:
     * Unification of the different datasets
 
 And also the databases used and generated can be found in this git.
+
+
+## Authors 
+
+Ramón Díaz Ramos
+Daniela Gómez Cravioto
+Michael Zenkl Galaz
+Jorge Ayala 
