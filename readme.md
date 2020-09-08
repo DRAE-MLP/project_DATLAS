@@ -22,6 +22,9 @@ And also the databases used and generated can be found in this git.
 ## Authors 
 
 Ramón Díaz Ramos
+
 Daniela Gómez Cravioto
+
 Michael Zenkl Galaz
+
 Jorge Ayala 
